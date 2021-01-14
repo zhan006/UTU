@@ -1,0 +1,1 @@
+exports.DBURL = "mongodb+srv://zhanwang:Wzdx1024@cluster0.kbqdz.mongodb.net/UTU?retryWrites=true&w=majority"
